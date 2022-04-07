@@ -1,0 +1,16 @@
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.exe
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.deps.json
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.runtimeconfig.json
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.runtimeconfig.dev.json
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.dll
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\ref\RestApiMsDocs.dll
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\bin\Debug\net5.0\RestApiMsDocs.pdb
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.csproj.AssemblyReference.cache
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.AssemblyInfoInputs.cache
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.AssemblyInfo.cs
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.dll
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\ref\RestApiMsDocs.dll
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.pdb
+C:\Users\Bartek\RiderProjects\RestApiMsDocs\RestApiMsDocs\obj\Debug\net5.0\RestApiMsDocs.genruntimeconfig.cache
